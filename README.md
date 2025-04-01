@@ -1,38 +1,33 @@
-Hello, I'm epickh.
+Hello, I'm Lena Ickhorn.
 
-The name consists of the initials of my first 2 names and the first 4 letters of my surname.
+I'm capable of using the following programming languages
+(sorted by skill):
+- C  
+    C is my main language, I prefer using it with
+    `-Wall`, `-Wextra` and `-Wpedantic`.
+- Bash  
+    I use the Bourne Again Shell for build scripts.
+    Sometimes I'm forced to use CMake, though.
+- Netwide x86-Assembly  
+    Some low-level things require Assembly. I'm on the Intel syntax
+    side; the AT&T syntax looks weird.
+- C++  
+    For projects in which it is absolutely required, Bjarne
+    Stroustrup's leg amputation machine is also in my repertoire.
 
-Programming Languages and Tech:
-- C                    (GCC with --pedantic or just TCC)
-- NASM x86-Assembly    (When I want the program to be small)
-- Rust                 (Because people want me to use it)
-- Visual Studio Code
-- Nano                 (Text Editor)
+I write code in those languages using VSCodium and `nano`.
 
-Technology Interests:
-- Baremetal Development & OSDev
-- Compilers & Interpreters
-- Emulators
-- Small Programs (Full 3D-games in 8MB)
+Technology Interests (sorted by skill):
+
+- Parsers
 - Code Size & Speed Optimization
-
-Non-Technology Interests:
-- Rock & Metal (have you heard of "Beast in Black"? They are GREAT)
-- Garden Work
-- Helping People.
+- (3D -) Graphics
+- Compilers & Interpreters
+- Baremetal Development & OSDev
 
 Spoken Languages:
-- English (fluent, British accent)
-- German  (fluent)
-- Spanish (making noises with a rough accent)
 
-Programs (& Web-Pages) I use:
-- HTTP-Browser:      Brave
-- Chat:              Element
-- Knowledge Sources: devdocs.io, wikipedia.org
-- Language Stuff:    dict.cc, duden.de
+- German  (C2)
+- English (~B1 / C2)
+- Spanish (*C3-PO*, A2)
 
-I'm a left-behind developer; I didn't catch the hype train.
-I don't use the new, shiny, trendy tech and disagree with that whole buzzword bingo, etc.
-
-If you have work for me, I have two open ears.
