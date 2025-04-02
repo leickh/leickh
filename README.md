@@ -13,7 +13,7 @@ I'm capable of using the following programming languages
     side; the AT&T syntax looks weird.
 - C++  
     For projects in which it is absolutely required, Bjarne
-    Stroustrup's leg amputation machine is also in my repertoire.
+    Stroustrup's leg amputation machine is in my repertoire as well.
 
 I write code in those languages using VSCodium and `nano`.
 
@@ -28,6 +28,6 @@ Technology Interests (sorted by skill):
 Spoken Languages:
 
 - German  (C2)
-- English (~B1 / C2)
+- English (~ B2/C1)
 - Spanish (*C3-PO*, A2)
 
